@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;800&display=swap');
+
+* {
+    font-family: 'Sen', sans-serif;
+}
+
+.logo {
+    font-size: 2em;
+    text-decoration: none;
+}
+
+#dark-bg {
+    height: 500px;
+    width: 300px;
+    background-color: #282828;
+}
+
+.food-section {
+    top: 100px;
+    left: 75px;
+}
+
+.food-section img {
+    width: 400px;
+    height: 400px;
+    border: 15px inset black;
+}
+
+.description {
+    margin: 6em 0 0 10em;
+    width: 500px;
+}
+
+.food-types {
+    top: 0px;
+    left: 0;
+}
+
+.food-types img {
+    margin: -13px 15px 20px -20px;
+    border: 6px inset black;
+}
+
+#food-about {
+    top: 115px;
+}
+
+.plate {
+    width: 220px;
+    border-radius: 1.3em;
+    background-color: #392e2d;
+    height: 220px;
+}
+
+h1 {
+    color: #282828;
+    letter-spacing: -1.5px;
+}
+
+.color-red {
+    color: #e70a0a;
+}
+
+.btn-bg {  
+    background-color: #282828;
+}
